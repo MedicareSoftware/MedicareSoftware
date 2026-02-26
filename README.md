@@ -21,9 +21,9 @@ We develop enterprise-grade applications and digital solutions tailored to meet 
 
 ## 🤝 Let's Connect
 
-- 📧 **Email:** contact@heartsun.com
-- 🌐 **Website:** www.heartsun.com
-- 📱 **Phone:** +977-XX-XXXX
+- 📧 **Email:** contact@heartsun.com.np
+- 🌐 **Website:** www.heartsun.com.np
+- 📱 **Phone:** +977-9845025322
 
 ## 💬 Ask Us About
 - Custom software development
